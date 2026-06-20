@@ -1,11 +1,13 @@
+<div align="center">
+
 ## 📂 Featured Projects
 
 ### ❤️ Heart Disease EDA
 
-**Objective:**
+**Objective**
 Analyze patient health records to identify patterns, risk factors, and indicators associated with heart disease.
 
-**Key Analyses Performed:**
+**Key Analyses Performed**
 
 * Data Cleaning & Preprocessing
 * Missing Value Treatment
@@ -14,17 +16,17 @@ Analyze patient health records to identify patterns, risk factors, and indicator
 * Correlation Analysis
 * Health Risk Factor Identification
 
-**Tools & Technologies:**
+**Tools & Technologies**
 `Python` • `Pandas` • `NumPy` • `Seaborn` • `Matplotlib`
 
 ---
 
 ### 🚗 Road Accident Analysis
 
-**Objective:**
+**Objective**
 Explore road accident data to uncover trends, accident hotspots, and factors contributing to accident severity.
 
-**Key Analyses Performed:**
+**Key Analyses Performed**
 
 * Accident Severity Analysis
 * Time-Based Trend Analysis
@@ -33,31 +35,28 @@ Explore road accident data to uncover trends, accident hotspots, and factors con
 * Geographical Hotspot Identification
 * Road Surface Condition Analysis
 
-**Tools & Technologies:**
+**Tools & Technologies**
 `Python` • `Pandas` • `NumPy` • `Seaborn` • `Matplotlib`
 
 ---
 
 ## 📈 Analytics Skills Demonstrated
 
-<table>
-<tr>
-<td>✔ Data Cleaning & Preprocessing</td>
-<td>✔ Exploratory Data Analysis (EDA)</td>
-</tr>
-<tr>
-<td>✔ Statistical Analysis</td>
-<td>✔ Data Visualization</td>
-</tr>
-<tr>
-<td>✔ Feature Engineering</td>
-<td>✔ Business Insight Generation</td>
-</tr>
-<tr>
-<td>✔ Reporting & Storytelling</td>
-<td>✔ Data-Driven Decision Making</td>
-</tr>
-</table>
+✔ Data Cleaning & Preprocessing
+
+✔ Exploratory Data Analysis (EDA)
+
+✔ Statistical Analysis
+
+✔ Data Visualization
+
+✔ Feature Engineering
+
+✔ Business Insight Generation
+
+✔ Reporting & Storytelling
+
+✔ Data-Driven Decision Making
 
 ---
 
@@ -73,15 +72,4 @@ Explore road accident data to uncover trends, accident hotspots, and factors con
 | **Version Control**       | Git, GitHub                   |
 | **Development Tools**     | VS Code, Jupyter Notebook     |
 
----
-
-### 📊 Areas of Expertise
-
-* Data Cleaning & Transformation
-* Exploratory Data Analysis (EDA)
-* Dashboard Development
-* Business Intelligence Reporting
-* Statistical Data Analysis
-* Data Visualization & Storytelling
-* KPI & Performance Tracking
-* Insight Generation for Decision-Making
+</div>
